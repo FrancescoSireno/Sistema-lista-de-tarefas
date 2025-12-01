@@ -1,2 +1,5 @@
 # Sistema-lista-de-tarefas
-Projeto voltado para uma lista de tarefas comum, nome da tarefa, adicionar, remover, marcar como concluída.
+
+Este é um projeto simples que estou desenvolvendo. A intenção é ser uma lista de tarefas comum, nome da tarefa, adicionar, remover, marcar como concluída.
+
+>> O projeto encontra-se em desenvolvimento, mas por hora é esta a base do que irá ser feito.
